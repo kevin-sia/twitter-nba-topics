@@ -36,6 +36,6 @@ I would look forward to doing this project again using a dataset of Tweets that 
     - The raw dataset - a collection of 46,914 Tweets/Retweets spanning from March 10-17
 
 - **images/nbalogo_large_crop.jpg**
-    - The image file used to generate the word cloud in the preprocessing steps.
+    - The image file used to generate the word cloud in the preprocessing steps
 
 To obtain the project results, run notebooks 02, 03 & 04 in order.  Notebook 01 can be used to gather new Tweets, but it is not necessary to run since the final dataset that was used for this project is contained in the "data" folder.
