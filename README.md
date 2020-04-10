@@ -2,7 +2,7 @@
 
 _Please refer to final_report.pdf for a more detailed technical summary of this project._
 
-This is my capstone project for the Data Science Diploma Program at BrainStation.  This work explores NBA-related topics on Twitter by using various unsupervised machine learning methods.
+This is my capstone project for the Data Science Diploma Program at BrainStation.  This work explores NBA-related topics on Twitter by using various unsupervised machine learning methods.  A short presentation of the project can be found [here](https://www.loom.com/share/86c22e59e5bb40daa4df328bd08d4105).
 
 Tweets were gathered through the Twitter API from March 10-17, 2020.  The Python `nltk` library was used to preprocess the text data.  Then, the machine learning techniques used were:
 
