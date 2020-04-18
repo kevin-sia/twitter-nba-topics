@@ -1,5 +1,6 @@
+# jupyter notebook checkpoints folder
 .ipynb_checkpoints
 
+# ignore the unscaled and scaled count-vectorized text data (large files)
 data/X.csv
 data/X_s.csv
-data/master_clean.csv
